@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Keep Calm</title>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">">
+	<style type="text/css">
+		body{
+			background-color : rgb(126,23,14);
+
+		}
+		h1 {
+			color:white;
+			font-family: 'Montserrat', sans-serif;
+			font-size: 40px;
+			text-transform: uppercase;
+		}
+		#box1 {
+			border: white double 10px;
+			width: 500px;
+			margin:20px auto;
+			text-align: center;
+		}
+		#andFormat {
+			font-size: 30px;
+
+		}
+	</style>
+</head>
+<body>
+<div id="box1">
+	<img src="keep-calm.png" width="400px">
+	<h1>Keep</h1>
+	<h1>Calm</h1>
+	<h1><span id="andFormat">And</span></h1>
+	<h1>Do</h1>
+	<h1>Coding</h1>
+	
+</div>
+</body>
+</html>
